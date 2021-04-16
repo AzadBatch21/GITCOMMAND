@@ -5,12 +5,13 @@ public class Azad {
 
         System.out.println("Hello");
         // hello
-<<<<<<< Updated upstream
+
         // added new changes for stash
 // new commens adding
-=======
+        //new
+
         //working on the git stash practice
         System.out.println("World");
->>>>>>> Stashed changes
+
     }
 }
