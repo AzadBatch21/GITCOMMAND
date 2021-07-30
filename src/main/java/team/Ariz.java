@@ -5,8 +5,6 @@ public class Ariz {
         System.out.println("hello amigos");
         //added
     }
-    //added new commit
-    //asdded new stash
-//hello guys
-//bye
+    //added new commit!
+    //asdded new stash!
 }
