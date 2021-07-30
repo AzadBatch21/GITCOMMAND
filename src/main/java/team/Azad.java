@@ -14,6 +14,8 @@ public class Azad {
         //new
 
 // Hello Ariz
+        
+        // Weare working on Git stash with Amigos
         System.out.println("World");
         //comment
 
